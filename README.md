@@ -1,5 +1,17 @@
 # 💫 About Me:
-👋 Hi, I'm Danish Ali<br>🎓 3rd Year Computer Systems Engineering Student<br>🏫 Mehran University of Engineering and Technology, Jamshoro<br>💻 Web Developer | React.js Enthusiast | App Builder<br><br>I specialize in building scalable, smooth, and responsive web applications using modern technologies like React.js. With hands-on experience in tools like VS Code, Postman, and other development environments, I enjoy turning ideas into real, user-friendly applications.<br><br>I’m passionate about writing clean code, exploring new technologies, and creating impactful solutions that solve real-world problems.
+
+👋 Hi, I'm Danish Ali
+🎓 Computer Systems Engineering Student
+🏫 Mehran University of Engineering and Technology, Jamshoro
+
+💻 Frontend Developer | Learning Data Science
+
+I have experience in frontend web development using HTML, CSS, JavaScript, and Bootstrap. I enjoy creating responsive and user-friendly websites.
+
+Currently, I am learning Data Science and improving my Python skills to understand data analysis and solve real-world problems.
+
+I like writing clean and simple code, learning new technologies, and building useful projects.
+
 
 
 ## 🌐 Socials:
@@ -11,11 +23,9 @@
 # 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 

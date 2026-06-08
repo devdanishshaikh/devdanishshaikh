@@ -69,10 +69,15 @@ I enjoy learning new technologies, building practical projects, and continuously
 
 ## 🌐 Connect With Me
 
-* LinkedIn:https://www.linkedin.com/in/danish-ali-82b627264?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* Facebook:https://www.facebook.com/share/18Xhnp3APZ/
-* Instagram: https://www.instagram.com/danish_ali11227
-* Email: [shaikhdani710@gmail.com](mailto:shaikhdani710@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](YOUR_FACEBOOK_LINK)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danish_ali11227)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhdani710@gmail.com)
+
+
 
 ---
 
